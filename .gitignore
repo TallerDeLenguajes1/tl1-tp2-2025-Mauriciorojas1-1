@@ -1,0 +1,16 @@
+# Archivos compilados
+*.exe
+*.obj
+*.o
+
+# Archivos temporales
+*.log
+*.tmp
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Carpetas de build 
+build/
+dist/
