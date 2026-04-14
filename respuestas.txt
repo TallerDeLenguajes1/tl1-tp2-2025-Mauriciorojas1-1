@@ -1,0 +1,3 @@
+No puedo ver el archivo tp2_1_2.c porque fue creado en otra rama que es la Opcion_2.
+En Source Control se pueden ver los commits realizados en la rama actual (main).
+No se observan los cambios de la rama Opcion_2, lo que indica que cada rama tiene su propio historial.
